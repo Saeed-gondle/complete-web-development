@@ -137,3 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+eventlogger.zip
+eventlogger
+
+*.zip
+*.rar
+*21-building-complete-backend
+22-mega-project (1)
+project-management-final
+pathshortnerscript.txt
